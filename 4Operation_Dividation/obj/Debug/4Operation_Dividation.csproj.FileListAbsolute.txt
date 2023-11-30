@@ -1,0 +1,8 @@
+D:\Web Development Practice\CIIT Practice\DevOps\CI CD Pipelines\4Operation_Dividation\4Operation_Dividation\bin\Debug\4Operation_Dividation.exe.config
+D:\Web Development Practice\CIIT Practice\DevOps\CI CD Pipelines\4Operation_Dividation\4Operation_Dividation\bin\Debug\4Operation_Dividation.exe
+D:\Web Development Practice\CIIT Practice\DevOps\CI CD Pipelines\4Operation_Dividation\4Operation_Dividation\bin\Debug\4Operation_Dividation.pdb
+D:\Web Development Practice\CIIT Practice\DevOps\CI CD Pipelines\4Operation_Dividation\4Operation_Dividation\obj\Debug\4Operation_Dividation.csproj.AssemblyReference.cache
+D:\Web Development Practice\CIIT Practice\DevOps\CI CD Pipelines\4Operation_Dividation\4Operation_Dividation\obj\Debug\4Operation_Dividation.csproj.SuggestedBindingRedirects.cache
+D:\Web Development Practice\CIIT Practice\DevOps\CI CD Pipelines\4Operation_Dividation\4Operation_Dividation\obj\Debug\4Operation_Dividation.csproj.CoreCompileInputs.cache
+D:\Web Development Practice\CIIT Practice\DevOps\CI CD Pipelines\4Operation_Dividation\4Operation_Dividation\obj\Debug\4Operation_Dividation.exe
+D:\Web Development Practice\CIIT Practice\DevOps\CI CD Pipelines\4Operation_Dividation\4Operation_Dividation\obj\Debug\4Operation_Dividation.pdb
